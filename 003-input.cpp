@@ -2,11 +2,9 @@
 using namespace std;
 
 int main() {
-  int age = 45;
-
-  cout<<"Enter your age: "<<endl;
-  cin>>age;
-  cout<<"Your age is: "<<age<<endl;
+  int apples;
+  cin>>apples;
+  cout<<"Number of apples: "<<apples<<endl;
 
   return 0;
 }
