@@ -3,6 +3,7 @@ C++ Data Types:
 
 ****************
   - Integer Data Type
+    - 4 bytes
   - Byte and Bits
   - https://i.ibb.co/BPBQGxH/byte-and-bits.png
 
@@ -14,6 +15,7 @@ C++ Data Types:
 
 ****************
   - Character Data Type
+    - 1 byte
   - https://i.ibb.co/mzbCsPB/character-data-type.png
   - Similarily, boolean data type is also of 1 byte
 
@@ -25,13 +27,14 @@ C++ Data Types:
 
 ****************
   - Double Floating Point Data Type
+    - 8 bytes
     - https://i.ibb.co/ysHzqT6/double-floating-point-data-type.png
 
 ****************
   - void return type
-    - https://ibb.co/Gxcx1DK
+    - https://i.ibb.co/WxgxdXb/void-return-type.png
 
 ****************
   - wide character data type
     - Can be of 4 bytes in some cases, but mostly it is 2 bytes
-    - https://ibb.co/0QZPkfy
+    - https://i.ibb.co/7bV7HGt/wide-character-data-type.png
