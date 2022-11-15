@@ -8,9 +8,9 @@ C++ Data Types:
   - https://i.ibb.co/BPBQGxH/byte-and-bits.png
 
   - How many combinations can be created in 1 byte?
-    - 2^8
+    - 2^8 -> 256
   - How many combinations can be created in 4 byte?
-    - 2^(8*4) -> 2^32
+    - 2^(8*4) -> 2^32 -> 4,29,49,67,296
   - https://i.ibb.co/Kj0VQ4J/Integer-Data-Type.png
 
 ****************

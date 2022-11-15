@@ -1,0 +1,3 @@
+- In C++, true is logged as 1 in console and false is logged 0 in console
+- Binary to decimal:
+  - https://i.ibb.co/gWB4C0L/binary-to-decimal.png
