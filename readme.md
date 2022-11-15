@@ -1,0 +1,3 @@
+- break keyword is used to break out of the loop
+- continue keyword is used to skip through an iteration of a loop
+- Scope of i in for loop is block scoped, cannot be accessed outside
