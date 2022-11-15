@@ -24,11 +24,13 @@ C++ Data Types:
     - Used to store decimals, exponentials.
     - https://i.ibb.co/F66H8vp/floating-point-data-type.png
     - 7 decimal place precision
+    - 4 bytes
 
 ****************
   - Double Floating Point Data Type
-    - 8 bytes
     - https://i.ibb.co/ysHzqT6/double-floating-point-data-type.png
+    - 15 decimal place precision
+    - 8 bytes
 
 ****************
   - void return type
