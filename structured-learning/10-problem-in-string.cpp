@@ -30,3 +30,5 @@ int main()
 
   return 0;
 }
+
+/* NOTE: Instead of declaring all variable at once, it's better to declare them on usage */
