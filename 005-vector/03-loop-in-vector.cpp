@@ -25,5 +25,15 @@ int main()
   {
     cout << element << " ";
   }
+  cout << endl;
+
+  /* while loop */
+  int idx = 0;
+  while (idx < v.size())
+  {
+    cout << v[idx] << " ";
+    idx++;
+  }
+
   return 0;
 }
